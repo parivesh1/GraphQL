@@ -1,0 +1,11 @@
+query Rockets {
+    launches {
+        launches {
+            rocket {
+                id
+                name
+                type
+            }
+        }
+    }
+}

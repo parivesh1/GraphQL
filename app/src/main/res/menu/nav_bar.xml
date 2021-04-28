@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/company"
+        android:icon="@drawable/company"
+        android:title="Company" />
+
+    <item
+        android:id="@+id/rockets"
+        android:icon="@drawable/shuttle"
+        android:title="Rockets" />
+
+    <item
+        android:id="@+id/missions"
+        android:icon="@drawable/target"
+        android:title="Missions" />
+
+    <item
+        android:id="@+id/launchpads"
+        android:icon="@drawable/launch"
+        android:title="Launches" />
+
+</menu>
